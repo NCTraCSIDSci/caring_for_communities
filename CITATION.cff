@@ -14,6 +14,6 @@ authors:
     orcid: 'https://orcid.org/0000-0002-1471-6259'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.17074156
+    value: 10.5281/zenodo.17074157
 repository-code: 'https://github.com/NCTraCSIDSci/caring_for_communities'
 license: MIT
